@@ -4,7 +4,7 @@
   "description": "RTK konkrētas grupas izmaiņas",
   "main": "rest.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "author": "Markuss Mišķis, Madars Batraks",
   "license": "GPL-3.0",
