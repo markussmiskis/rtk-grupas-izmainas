@@ -4,7 +4,7 @@
   "description": "RTK konkrētas grupas izmaiņas",
   "main": "rest.js",
   "scripts": {
-    "start": "node index"
+    "start": "node rest.js"
   },
   "author": "Markuss Mišķis, Madars Batraks",
   "license": "GPL-3.0",
