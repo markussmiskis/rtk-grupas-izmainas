@@ -26,7 +26,7 @@ function dateToDay(dateStr) {
     });
 }
 
-app.get("/:group", (req, res) => {
+app.get("/izm/:group", (req, res) => {
 
     console.log("Received a request for:", req.params.group);
 
